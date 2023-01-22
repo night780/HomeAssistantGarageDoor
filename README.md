@@ -9,6 +9,9 @@ Requirements
     A Home Assistant instance set up and configured to receive RESTful API calls
     An authentication method for the Home Assistant API (long-lived token, short-lived token, or secret key)
 
+<img src="Images1\esp32.png" alt="ESP32 Image">
+
+
 ## Installation
 
     Connect the garage door sensor to a digital input pin of the ESP32
